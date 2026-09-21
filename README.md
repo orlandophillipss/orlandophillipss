@@ -4,7 +4,7 @@
 
 ### Software Developer
 
-<img src="https://skillicons.dev/icons?i=go,c,cpp,cs,rust,js,nodejs,nextjs,react,html,css&theme=dark" alt="Languages and Technologies" />
+<img src="https://skillicons.dev/icons?i=go,cpp,cs,rust,js,nodejs,nextjs,react,html,css&theme=dark" alt="Languages and Technologies" />
 
 <br><br>
 
@@ -21,7 +21,6 @@
 | Language | What I use it for |
 | --- | --- |
 | **Go** | Backend services, HTTP servers, networking and tooling |
-| **C** | Low-level programming and systems fundamentals |
 | **C++** | Performance-focused and systems development |
 | **C#** | Application development, game tooling and .NET projects |
 | **Rust** | Systems programming and memory-safe low-level software |
@@ -32,7 +31,7 @@
 
 ## About
 
-I enjoy building software at different levels of the stack, from low-level programs in C, C++, C# and Rust to backend services in Go and Node.js and full-stack applications with React and Next.js.
+I enjoy building software across different parts of the stack, from systems-oriented projects in C++, C# and Rust to backend services in Go and Node.js and full-stack applications with React and Next.js.
 
 I'm particularly interested in understanding how software works beneath the abstractions, including networking, HTTP servers, performance, memory, APIs and game systems.
 
@@ -47,7 +46,7 @@ I'm particularly interested in understanding how software works beneath the abst
 ```text
 Frontend     React | Next.js | JavaScript | HTML | CSS
 Backend      Go | Node.js
-Systems      C | C++ | C# | Rust
+Systems      C++ | C# | Rust
 ```
 
 ---
