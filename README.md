@@ -62,16 +62,6 @@ AI / Agents    Agent Orchestration | MCP | Repository-Aware Agents
 
 ---
 
-## Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,cpp,cs,rust,lua,js,nodejs,nextjs,react,html,css,git,github,githubactions,vscode,visualstudio&perline=8&theme=dark" alt="Technology Stack" />
-
-</div>
-
----
-
 ## Tooling
 
 <div align="center">
