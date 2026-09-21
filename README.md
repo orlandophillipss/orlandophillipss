@@ -4,9 +4,9 @@
 
 ### Software Developer
 
-Building software across web development, backend systems, systems programming and game development.
+<img src="https://skillicons.dev/icons?i=go,c,cpp,cs,rust,js,nodejs,nextjs,react,html,css&theme=dark" alt="Languages and Technologies" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/orlandophillipss">
   <img src="https://img.shields.io/badge/GitHub-orlandophillipss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -16,28 +16,25 @@ Building software across web development, backend systems, systems programming a
 
 ---
 
-## About
-
-I enjoy building software at different levels of the stack, from low-level programs in C, C++ and Rust to backend services in Go and Node.js and full-stack applications with React and Next.js.
-
-I'm particularly interested in understanding how software works beneath the abstractions: networking, HTTP servers, performance, memory, APIs, game systems and systems programming.
-
----
-
 ## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,c,cpp,rust,js,html,css&theme=dark" alt="Programming Languages" />
-</p>
 
 | Language | What I use it for |
 | --- | --- |
 | **Go** | Backend services, HTTP servers, networking and tooling |
 | **C** | Low-level programming and systems fundamentals |
 | **C++** | Performance-focused and systems development |
+| **C#** | Application development, game tooling and .NET projects |
 | **Rust** | Systems programming and memory-safe low-level software |
 | **JavaScript** | Web applications, APIs and application logic |
 | **HTML / CSS** | Web interfaces and frontend development |
+
+---
+
+## About
+
+I enjoy building software at different levels of the stack, from low-level programs in C, C++, C# and Rust to backend services in Go and Node.js and full-stack applications with React and Next.js.
+
+I'm particularly interested in understanding how software works beneath the abstractions, including networking, HTTP servers, performance, memory, APIs and game systems.
 
 ---
 
@@ -50,10 +47,8 @@ I'm particularly interested in understanding how software works beneath the abst
 ```text
 Frontend     React | Next.js | JavaScript | HTML | CSS
 Backend      Go | Node.js
-Systems      C | C++ | Rust
+Systems      C | C++ | C# | Rust
 ```
-
-I work across both frontend and backend development rather than focusing on a single part of the stack.
 
 ---
 
@@ -77,11 +72,11 @@ Game systems, tools, physics experiments, mods and other projects involving game
 
 ---
 
-## Technology
+## Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,c,cpp,rust,js,nodejs,nextjs,react,html,css,git,github,vscode&perline=13&theme=dark" alt="Technology Stack" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools" />
 
 </div>
 
@@ -89,8 +84,6 @@ Game systems, tools, physics experiments, mods and other projects involving game
 
 <div align="center">
 
-### `github.com/orlandophillipss`
-
-Building software and learning how it works.
+`github.com/orlandophillipss`
 
 </div>
